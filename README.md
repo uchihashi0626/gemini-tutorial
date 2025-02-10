@@ -1,3 +1,6 @@
+.env.localファイルを作成し、GOOGLE_API_KEYに自身が取得したAPIキーを入力する。
+APIキーは外部に公開しない。
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
